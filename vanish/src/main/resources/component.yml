@@ -1,0 +1,5 @@
+main: network.discov.component.vanish.Vanish
+name: ${artifactId}
+depend: [PlaceholderAPI]
+developers: ParrotLync
+version: ${version}

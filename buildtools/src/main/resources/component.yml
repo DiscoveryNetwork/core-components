@@ -1,0 +1,5 @@
+main: network.discov.component.buildtools.BuildTools
+name: ${artifactId}
+depend: [LuckPerms]
+developers: ParrotLync
+version: ${version}

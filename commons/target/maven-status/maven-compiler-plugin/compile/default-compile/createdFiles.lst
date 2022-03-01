@@ -1,0 +1,8 @@
+network\discov\component\commons\command\FlyCommand.class
+network\discov\component\commons\command\PlayerTimeCommand.class
+network\discov\component\commons\command\TimeTabArgument.class
+network\discov\component\commons\Commons.class
+network\discov\component\commons\command\WakeCommand.class
+network\discov\component\commons\command\SpeedCommand.class
+network\discov\component\commons\command\ClearInventoryCommand.class
+network\discov\component\commons\command\TimeValue.class

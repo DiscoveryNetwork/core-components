@@ -1,0 +1,4 @@
+main: network.discov.component.commons.Commons
+name: Commons
+developers: ParrotLync
+version: 1.0-SNAPSHOT

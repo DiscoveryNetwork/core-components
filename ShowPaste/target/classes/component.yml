@@ -1,0 +1,5 @@
+main: network.discov.component.showpaste.ShowPaste
+name: ShowPaste
+depend: [FastAsyncWorldEdit]
+developers: ParrotLync
+version: 1.0-SNAPSHOT

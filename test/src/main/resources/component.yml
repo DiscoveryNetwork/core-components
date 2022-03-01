@@ -1,0 +1,3 @@
+main: network.discov.component.test.Test
+name: TestComponent
+version: 1.0.0

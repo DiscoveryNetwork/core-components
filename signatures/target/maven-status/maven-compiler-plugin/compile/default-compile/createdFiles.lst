@@ -1,0 +1,11 @@
+network\discov\component\signatures\model\SignatureRequest.class
+network\discov\component\signatures\manager\RequestManager.class
+network\discov\component\signatures\command\SendCommand.class
+network\discov\component\signatures\model\Signature.class
+network\discov\component\signatures\command\RequestCommand.class
+network\discov\component\signatures\Signatures.class
+network\discov\component\signatures\command\GetCommand.class
+network\discov\component\signatures\command\RemoveCommand.class
+network\discov\component\signatures\model\SignaturePageTabArgument.class
+network\discov\component\signatures\command\SignatureCommandExecutor.class
+network\discov\component\signatures\manager\SignatureManager.class

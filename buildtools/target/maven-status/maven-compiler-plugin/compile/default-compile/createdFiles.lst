@@ -1,0 +1,15 @@
+network\discov\component\buildtools\command\SelectReferenceCommand.class
+network\discov\component\buildtools\manager\SelectionManager.class
+network\discov\component\buildtools\command\RemoveReferenceCommand.class
+network\discov\component\buildtools\command\ListReferenceCommand.class
+network\discov\component\buildtools\BuildTools.class
+network\discov\component\buildtools\command\BuildCommand.class
+network\discov\component\buildtools\command\OutlinesCommandExecutor.class
+network\discov\component\buildtools\model\ReferenceParticle.class
+network\discov\component\buildtools\model\ReferencePoint.class
+network\discov\component\buildtools\model\ReferencePointTabArgument.class
+network\discov\component\buildtools\command\CreateReferenceCommand.class
+network\discov\component\buildtools\command\OutlinePlaceCommand.class
+network\discov\component\buildtools\manager\BuildModeManager.class
+network\discov\component\buildtools\command\PageTabArgument.class
+network\discov\component\buildtools\manager\ReferenceManager.class

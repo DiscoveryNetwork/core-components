@@ -1,0 +1,5 @@
+main: network.discov.component.buildtools.BuildTools
+name: BuildTools
+depend: [LuckPerms]
+developers: ParrotLync
+version: 1.0-SNAPSHOT

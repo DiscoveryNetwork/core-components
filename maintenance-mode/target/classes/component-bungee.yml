@@ -1,0 +1,4 @@
+main: network.discov.component.maintenance.MaintenanceMode
+name: MaintenanceMode
+developers: ParrotLync
+version: 1.0-SNAPSHOT

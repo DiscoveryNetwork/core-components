@@ -1,0 +1,3 @@
+network\discov\component\scoreboard\ScoreBoard.class
+network\discov\component\scoreboard\PlayerBoard.class
+network\discov\component\scoreboard\BoardManager.class

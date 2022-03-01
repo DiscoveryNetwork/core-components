@@ -1,0 +1,5 @@
+main: network.discov.component.vanish.Vanish
+name: Vanish
+depend: [PlaceholderAPI]
+developers: ParrotLync
+version: 1.0-SNAPSHOT

@@ -1,0 +1,8 @@
+network\discov\component\showpaste\IntegerTabArgument.class
+network\discov\component\showpaste\PasteCommand.class
+network\discov\component\showpaste\PositionalYArgument.class
+network\discov\component\showpaste\SchematicTabArgument.class
+network\discov\component\showpaste\PositionalWorldArgument.class
+network\discov\component\showpaste\PositionalZArgument.class
+network\discov\component\showpaste\PositionalXArgument.class
+network\discov\component\showpaste\ShowPaste.class

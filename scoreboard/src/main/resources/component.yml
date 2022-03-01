@@ -1,0 +1,5 @@
+main: network.discov.component.scoreboard.ScoreBoard
+name: ${artifactId}
+developers: ParrotLync
+version: ${version}
+depend: [PlaceholderAPI]

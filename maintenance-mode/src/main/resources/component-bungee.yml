@@ -1,0 +1,4 @@
+main: network.discov.component.maintenance.MaintenanceMode
+name: ${artifactId}
+developers: ParrotLync
+version: ${version}

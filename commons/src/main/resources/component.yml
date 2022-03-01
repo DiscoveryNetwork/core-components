@@ -1,0 +1,4 @@
+main: network.discov.component.commons.Commons
+name: ${artifactId}
+developers: ParrotLync
+version: ${version}
